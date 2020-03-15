@@ -10,7 +10,7 @@ function App() {
         <p>
           AWS React Deployment Practice
         </p>
-        <p>Asad Naeem</p>
+        <p>Asad Naeem - version 2 aws auto deployment check</p>
       </header>
     </div>
   );
